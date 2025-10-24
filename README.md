@@ -1,2 +1,4 @@
 # Driverpasss-portfolio-
-Portfolio submission for SNHU System Analysis and Design course. Includes business requirements and system design documents for the DriverPass project, plus a personal reflection.
+This repository is part of my portfolio submission for the System Analysis and Design course at SNHU.  
+Instructor GitHub Username:[dwashington2]
+ Includes business requirements and system design documents for the DriverPass project, plus a personal reflection.
